@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+}
+
+.menu1 {
+    background-color: #f44336;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+  box-shadow: 0px 8px 10px #110a0a;
+}
+menu{
+  
+} 
+.home{
+    color: black;
+    background-color: white ;
+    padding: 24px 40px ;
+}
+.home:hover{
+    background-color:rgb(221, 221, 221) ;
+}
+.link{
+    color: white;
+     padding: 24px 30px;
+    margin-left: 0;
+}
+.link:hover{
+    color: black;
+    background-color: white;
+}
+.name{
+    background-color: rgba(243, 30, 30, 0.87);
+    height: 245px;
+    text-align: center !important;
+    color: white;
+    padding: 128px 16px ;
+}
+.text1{
+    font-weight: 400;
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    margin: 16px;
+}
+.text2{
+    font-size: 30px;
+    display: block;
+    margin: 24px 0px 24px 0px;
+}
+.text3{
+    margin: 16px 0px 0px 0px ;
+    padding: 12px 24px ;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+.text3:hover{
+    color: black;
+    background-color: rgb(214, 208, 208);
+}
+.infor{
+    height: 400px;
+    background-color: white;
+    padding-top: 64px !important;
+    padding-bottom: 64px !important;
+}
+.photo{
+    margin: 30px 0px;
+    width: 320px;
+    display: block;
+    float: right;
+}
+.info1{
+    width: 66,666666%;
+    box-sizing: inherit;
+    display: block;
+    padding: 0px 190px ;
+}
+.info12{
+     font-weight: 400;
+    margin: 20px 0px;
+    font-size: 46px;
+    display: block;
+}
+.info13{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    font-weight: 350;
+    margin: 10px 0px;
+    font-size: 20px;
+
+}
+.info14{
+    color: #757575 !important;
+    font-size: 16px;
+    font-weight: 300px;
+    margin: 15px 0px;
+}
+.glass0{
+    height: 390px;
+    background-color: #f1f1f1;
+    padding-top:  64px !important;
+    padding-bottom: 64px !important;
+}
+.glass2{
+   float: left;
+   margin: 40px 0px;
+   width: 290px;
+}
+.glass1{
+    padding: 0px 190px;
+}
+.glass3{
+    font-weight: 400;
+    margin: 20px 0px;
+    font-size: 46px;
+    display: block;
+}
+.glass4{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    font-weight: 350;
+    margin: 10px 0px;
+    font-size: 20px;
+
+}
+.glass5{
+    color: #757575 !important;
+    font-size: 16px;
+    font-weight: 300px;
+    margin: 15px 0px;
+}
+.blek{
+    height: 200px;
+    background-color: #757575;
+
+}
+.blek1{
+    padding: 80px 0px;
+    text-align: center;
+    color: white;
+}
+.end{
+    height: 150px;
+   text-align: center;
+   padding-top: 64px !important;
+   padding-bottom: 64px !important;
+}
+.end1{
+    height: 40px 0px;
+}
+.end2{
+    font-size: 20px;
+    margin: 30px 0px 0px 0px;
+}
